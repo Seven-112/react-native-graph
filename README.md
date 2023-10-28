@@ -146,18 +146,3 @@ Example:
 
 See this [example `<SelectionDot />` component](./example/src/components/CustomSelectionDot.tsx).
 
-## Sponsor
-
-<img src="./img/pinkpanda.png" align="right" height="50">
-
-**react-native-graph** is sponsored by [Pink Panda](https://pinkpanda.io).
-
-Download the Pink Panda mobile app to see react-native-graph in action!
-
-## Adopting at scale
-
-react-native-graph was built at Margelo, an elite app development agency. For enterprise support or other business inquiries, contact us at <a href="mailto:hello@margelo.io?subject=Adopting react-native-graph at scale">hello@margelo.io</a>!
-
-## Thanks
-
-Special thanks to [William Candillon](https://github.com/wcandillon) and [Christian Falch](https://github.com/chrfalch) for their amazing help and support for React Native Skia ❤️
